@@ -10,7 +10,7 @@ import UserReview from './components/UserReview'
 import PasswordReset from './components/PasswordReset'
 import Register from './components/Register'
 
-import Userdetails from './components/UserDetails'
+import Userdetails from './components/Userdetails.jsx'
 import Nav from './Nav'
 import Allresturant from "./components/Allresturant"
 import Login from './components/Login'
